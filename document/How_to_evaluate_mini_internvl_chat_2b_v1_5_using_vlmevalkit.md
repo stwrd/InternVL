@@ -2,7 +2,7 @@
 
 In this tutorial, we will provide a detailed guide on how to evaluate Mini-InternVL-Chat-2B-V1-5 using VLMEvalKit.
 
-First of all, please follow this [guide](https://github.com/open-compass/VLMEvalKit/blob/main/Quickstart.md) to install VLMEvalKit.
+First of all, please follow this [guide](https://github.com/open-compass/VLMEvalKit/blob/main/docs/en/Quickstart.md) to install VLMEvalKit.
 
 ## MMBench_DEV_EN
 
